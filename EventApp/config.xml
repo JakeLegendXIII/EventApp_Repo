@@ -109,4 +109,6 @@
   <plugin name="cordova-plugin-inappbrowser" version="1.4.0" />
   <plugin name="cordova-plugin-calendar" version="4.4.8-dev" src="https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin" />
   <plugin name="uk.co.workingedge.phonegap.plugin.launchnavigator" version="3.1.1" src="https://github.com/dpa99c/phonegap-launch-navigator.git" />
+  <plugin name="cordova-plugin-actionsheet" version="2.2.2" />
+  <plugin name="cordova-plugin-dialogs" version="1.2.1" />
 </widget>
